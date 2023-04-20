@@ -1,5 +1,5 @@
 
-# The World Bank's International Debt
+# 🏦 The World Bank's International Debt
 ### Introduction
 It's not that we humans only take debts to manage our necessities. A country may also take debt to manage it's economy. For example, infrastructure spending is one costly ingredient required for a country's citizen to lead comfortable lives. The world Bank is the organization that provides debt to countries.
 
@@ -11,7 +11,7 @@ This is a guided project on DataCamp.
 
 
 
-## Project Objectives
+## 📜 Project Objectives
 
 We are going to find answers to questions like:
 - What is the total amount of debt that is owed by the countries listed in the dataset?
@@ -22,7 +22,7 @@ We are going to find answers to questions like:
 
 This list is not complete — you can extend it with additional questions that come to your mind during the analysis
 
-## Features
+## 📝 Features
 | Column  | Description |
 | ------------- | ------------- |
 | country_name  | contains name of each country  |
@@ -32,7 +32,7 @@ This list is not complete — you can extend it with additional questions that c
 | debt | amount owed in USD|
 
 
-## Workspace Setup on Jupyter Notebook
+## 👨‍💻 Workspace Setup on Jupyter Notebook
 
 The first line of code connects us to the international-debt database where the table international_debt is residing. Let's first SELECT all of the columns from the international_debt table. Also, we'll limit the output to the first ten rows to keep the output clean.
 
@@ -53,14 +53,14 @@ LIMIT 10;
 * Debugging
 * Error Handling
 * PostgreSQL
-## Contributing
+## 🫂 Contributing
 
 Contributions are always welcome!
 
 Please adhere to this project's `code of conduct`.
 
 
-## Authors
+## ✍️ Author
 
 - [@Psalmykrane](https://www.github.com/Psalmykrane)
 
