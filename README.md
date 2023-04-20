@@ -32,7 +32,7 @@ This list is not complete — you can extend it with additional questions that c
 | debt | amount owed in USD|
 
 
-## 👨‍💻 Workspace Setup on Jupyter Notebook
+## 👨‍💻 Workspace Setup on `Jupyter Notebook`
 
 The first line of code connects us to the international-debt database where the table international_debt is residing. Let's first SELECT all of the columns from the international_debt table. Also, we'll limit the output to the first ten rows to keep the output clean.
 
@@ -46,7 +46,7 @@ LIMIT 10;
 
 ## 🛠 Skills
 * Data querying
-* SELECT-ing Data
+* `SELECT`-ing Data
 * Filtering and summarizing Data
 * Sorting and Grouping Data
 * Writing Readable code
